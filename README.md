@@ -5,7 +5,7 @@ Web based Library Management System using Java Servlet and MySQL
 
      1.Eclipse IDE
      2. MySQL
-     3.PhpMyAdmin
+     3.Maven 
 
 
 #### How To Run :
