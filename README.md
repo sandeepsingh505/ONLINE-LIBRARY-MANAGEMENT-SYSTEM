@@ -22,38 +22,38 @@ Web Pages:
 1. Login Page for both in the same page- 
 
 
-a. For Librarian login
-b. For Student login
+       a. For Librarian login
+       b. For Student login
 
 2.For Librarian Portal :(With the authority to delete any action)
 
 
-a.Add Student
-b.View Student
-c.add Book
-d.View Book
-e.VIew Issued Book
-e.Log out 
+      a.Add Student
+      b.View Student
+      c.add Book
+      d.View Book
+      e.VIew Issued Book
+      f.Log out 
 
-2.For Student Portal:(without the authority to delete any action )
+3.For Student Portal:(without the authority to delete any action )
 
 
-a.Add Book
-b.Issue Book
-c.View Issued Book
-d.Logout 
+     a.Add Book
+     b.Issue Book
+     c.View Issued Book
+     d.Logout 
 
 4.Various error showing pages for incorrect information 
 
 
 
-DataBase Related Information :
+## DataBase Related Information :
 
 
 
 Create the tables as mentioned in the project and then connect the database with the server.
 
-**Extra Information:
+### Extra Information:
 
 
 
