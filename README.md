@@ -1,10 +1,10 @@
 # Library-Management-System
 Web based Library Management System using Java Servlet and MySQL
 
-Required Softwares:
-1.Eclipse IDE
-2. MySQL
-3.PhpMyAdmin
+## Required Softwares:
+    1.Eclipse IDE
+    2. MySQL
+    3.PhpMyAdmin
 
 
 How To Run:
